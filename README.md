@@ -1,16 +1,16 @@
 *This project has been created as part of 42 curriculum by ahetru*
 
-#Inception
+# Inception
 
 TODO
 
-##Description
+## Description
 
 TODO
 
-##Instructions
+## Instructions
 
-Prerequisites:
+### Prerequisites:
 
 - Install docker dependencies:
 
@@ -38,9 +38,9 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 ```
 
 
-##Ressources
+## Ressources
 
 TODO
 
-##Project Description
+## Project Description
 TODO:
