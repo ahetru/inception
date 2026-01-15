@@ -12,6 +12,11 @@ TODO
 
 ### Prerequisites:
 
+- Install build essential (needed for Makefile)
+```sh
+sudo apt install build-essential
+```
+
 - Install docker dependencies:
 
 ```sh
@@ -40,7 +45,11 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 ## Ressources
 
-TODO
+### Optional:
+
+Programs that come handy during development:
+vim / tree
+
 
 ## Project Description
 TODO:
